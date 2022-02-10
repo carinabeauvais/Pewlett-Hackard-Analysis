@@ -27,4 +27,6 @@ There are 72,458 employees potentially retiring using the data we have. There co
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor to the next generation of Pewlett Hackard employees?
 
-Not even close. Using such a limited group, in this case those born in 1965, shows you have 1,379 eligible candidates. I highly suggest expanding your candidate pool by beefing up your mentor program and hire a large number of employees as soon as possible to get them trained and ready to go or you will soon be very short staffed. 
+Not even close. Using such a limited group, in this case those born in 1965, shows you have 1,379 eligible candidates. I highly suggest expanding your candidate pool by beefing up your mentor program and hire a large number of employees as soon as possible to get them trained and ready to go or you will soon be very short staffed. I pulled data for staff born from 1965 through 1995 and still have nowhere near enough candidates. This tells me the majority of your staff are very close to retirement age. Great because they are likely long-term employees, but you need to hire younger employees to backfill and learn the ropes from your more seasoned staff, so you will also want to identify staff who would make great mentors to new employees.
+
+![genx count by title](https://user-images.githubusercontent.com/96350410/153323697-98e30fc3-e368-4978-a0d4-ca6c32616506.png)
